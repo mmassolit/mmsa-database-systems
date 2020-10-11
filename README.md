@@ -15,7 +15,7 @@
 4. Danko Myroslava, *"Clothes sharing"* [mdanko990/clothes-sharing](https://github.com/mdanko990/clothes-sharing.git)
 5. Dubyk Danylo, *"Fog (program store)"* [CTMBNara/FogStore](https://github.com/CTMBNara/FogStore)
 6. Viktoriia Ivanova, *"Travel agency"* [Vikuolia/Travel_agency-DB](https://github.com/Vikuolia/Travel_agency-DB)
-7. Yevhenii Kaliukh, *"Online store Dogs and For Dog"* [evvhenii/DogsAndForDogs](https://github.com/evvhenii/DogsAndForDogs)
+7. Yevhenii Kaliukh, *"Service for giving and search pets"* [evvhenii/DogsAndForDogs](https://github.com/evvhenii/DogsAndForDogs)
 8. Kaminska Diana, *"Online store of healthy food"* [dianakaminska/onlineStoreOfHealthyFood](https://github.com/dianakaminska/onlineStoreOfHealthyFood.git)
 9. Danylo Kanievskyi, *"Renovation of apartments"* [danylokaniev/renovation](https://github.com/danylokaniev/renovation)
 10. Dmytro Kanievskyi, *"Coworking"* [kan-dim/co-working](https://github.com/kan-dim/co-working)
