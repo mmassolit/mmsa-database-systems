@@ -31,6 +31,7 @@
 20. Prystavka Vlad, *"Online fitness studio"* [prystavka/fitnessStudio](https://github.com/prystavka/fitnessStudio)
 21. Slobodzyaniy Maksym, *"Dating application"* [mmassolit/dating-app](https://github.com/mmassolit/dating-app)
 22. Starukh Yevheniia, *"Online election"* [ZhenyaStarukh/online_election](https://github.com/ZhenyaStarukh/online_election)
+23. Frolkin Volodymyr, *"News portal"* [frolkin28/news_app](https://github.com/frolkin28/news_app)
 24. Tsanko Anastasiya, *"Online confectionery"* [nastytsa/confectionery-shop](https://github.com/nastytsa/confectionery-shop.git)
 26. Shudra Ruslan, *"Organization of work on taxi station"* [ShudraRuslan/Taxi-station](https://github.com/ShudraRuslan/Taxi-station)
 
